@@ -12,3 +12,4 @@ web-build/
 
 # macOS
 .DS_Store
+rn-circular-picker-poc.code-workspace
